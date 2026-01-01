@@ -16,7 +16,7 @@ $deger3	= "Zeynep";
 	
 	if ($deger1 == "Elvan") {
 		echo "İf Koşulu Devrede";
-	}elseif ($deger2 == "Ahsen") {
+	}elseif ($deger2 == "Emirhan") {
 		echo "1. Elseif koşulu devrede";
 	}elseif ($deger3  == "Olca") {
 		echo "2.Else if Koşulu Devrede";
@@ -27,4 +27,5 @@ $deger3	= "Zeynep";
 	
 	?> 
 </body>
+
 </html>
